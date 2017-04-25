@@ -1,0 +1,8 @@
+The Shadow Brokers dump more intel from the NSA's elite Equation Group   
+In August, anonymous hacker(s) dumped a cache of cyberweapons that appeared to originate with The Equation Group , an elite, NSA-affiliated hacking squad. 
+The leakers called themselves The Shadow Brokers, and they sought bTc1,000,000 for access to the remainder of The Equation Group's files. Earlier this month, arrested NSA contractor Harold Thomas Martin was accused of being the source of the leak to The Shadow Brokers, though not necessarily deliberately (he may have been hacked by The Shadow Brokers). 
+The Shadow Brokers have had no takers for their auction, and so they're now dumping more files, presumably to stir up interest. 
+The new leak purportedly reveals IP addresses of NSA controlled servers in 49 countries that are used to launch offensives against NSA targets. If the leaks are to be believed, they show that the NSA uses hacked servers in China and Russia to attack other countries. 
+The dump contains some 300 folders of files, all corresponding to different domains and IP addresses. Domains from Russia, China, India, Sweden, and many other countries are included. According to an analysis by the security researcher known as Hacker Fantastic, the dump contains 306 domains and 352 IP addresses relating to 49 countries in total. 
+If accurate, victims of the Equation Group may be able to use these files to determine if they were potentially targeted by the NSA-linked unit. The IP addresses may relate to servers the NSA has compromised and then used to deliver exploits, according to security researcher Mustafa Al-Bassam. 
+“So even the NSA hacks machines from compromised servers in China and Russia. This is why attribution is hard,” Al-Bassam tweeted on Monday.
