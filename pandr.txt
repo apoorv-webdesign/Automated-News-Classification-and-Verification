@@ -1,0 +1,16 @@
+Predicting for Model: gnb_tfidf Test Model is: tfidf vectorizedtotal real predictions:271
+total fake predictions:220
+total correct real predictions:208
+total correct fake predictions:178
+Predicting for Model: mnb_tfidf Test Model is: tfidf vectorizedtotal real predictions:321
+total fake predictions:170
+total correct real predictions:247
+total correct fake predictions:167
+Predicting for Model: sgdc_tfidf Test Model is: tfidf vectorizedtotal real predictions:279
+total fake predictions:212
+total correct real predictions:249
+total correct fake predictions:211
+Predicting for Model: random_forest_tfidf Test Model is: tfidf vectorizedtotal real predictions:279
+total fake predictions:212
+total correct real predictions:247
+total correct fake predictions:209

@@ -1,0 +1,8 @@
+Predicting for Model: gnb_tfidf Test Model is: tfidf vectorized
+ Accuracy is 0.7861507128309573
+Predicting for Model: mnb_tfidf Test Model is: tfidf vectorized
+ Accuracy is 0.8431771894093686
+Predicting for Model: sgdc_tfidf Test Model is: tfidf vectorized
+ Accuracy is 0.9368635437881874
+Predicting for Model: random_forest_tfidf Test Model is: tfidf vectorized
+ Accuracy is 0.9287169042769857
